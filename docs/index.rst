@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   /sketchup/sketchup
+   /disegno/sketchup/sketchup.rst
 
 
 
